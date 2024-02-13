@@ -1,8 +1,8 @@
 # `🧿𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭🧿`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51935763050" target="blank"><img src="https://img.shields.io/badge/𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5493487478549" target="blank"><img src="https://img.shields.io/badge/bonni Bot-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5433487478549" target="blank"><img src="https://img.shields.io/badge/Bonni Bot-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄ GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
@@ -50,7 +50,7 @@ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget &&
 ```
 
 ```bash
-wget -O - https://raw.githubusercontent.com/GeralBot/prueba/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/Bonni021/honguitobot.git | bash
 ```
 
 
@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/GeralBot/prueba.git && cd prueba
+git clone https://github.com/Bonni021/honguitobot.git && cd prueba
 ```
 
 ```bash

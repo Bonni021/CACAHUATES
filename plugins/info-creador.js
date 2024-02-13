@@ -2,23 +2,23 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
-│➯ Bonni 𝐁𝐨𝐭 ✍
+│➯ Bonni Bot✍
 │➯Wa.me/5493487478549 (CREADOR)
 │➯Wa.me/5493487478549 (CREADOR) 
 │➯Wa.me/5493487478549 (CREADOR)
 │➯Wa.me/5493487478549  (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
-'document': { url: `https://github.com/Bonni021/prueba` },
+'document': { url: `https://github.com/Bonni021/honguitobot.git` },
 'mimetype': `application/${document}`,
-'fileName': `Bonni 𝐁𝐨𝐭 ✍`,
+'fileName': `Bonni Bot ✍`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Bonni021/prueba',
+'mediaUrl': 'https://github.com/Bonni021/honguitobot.git',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
