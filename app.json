@@ -1,11 +1,11 @@
 {
-  "name": "𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭",
+  "name": "Bonni Bot",
   "website": "https://youtube.com/@hades_bot2391",
   "description": "Super Bot WhatsApp",
   "repository": "https://github.com/Bonni021/honguitobot.git",
   "logo": "https://i.imgur.com/AmzlKVi.jpeg",
   "success_url": "",
-  "keywords": [
+  "keywords": 
     "nodejs",
     "heroku",
     "bot",
