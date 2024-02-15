@@ -5,7 +5,8 @@
   "repository": "https://github.com/Bonni021/honguitobot.git",
   "logo": "https://i.imgur.com/AmzlKVi.jpeg",
   "success_url": "",
-  "keywords": 
+  "keywords":
+  [
     "nodejs",
     "heroku",
     "bot",
